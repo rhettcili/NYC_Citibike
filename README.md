@@ -7,10 +7,12 @@ The purpose of this analysis was to create visualizations that helped better und
 
 ## Some findings
 
-![]
+![](/Images/Duration.JPG)
+
 Here we can see that the majority of these bike trips have a duration between 0 and 1 hours. 
 
-![]
+![](/Images/Weekday.JPG)
+
 And here we can see the most popluar days of the week for these bike trips.
 
 ## Summary
